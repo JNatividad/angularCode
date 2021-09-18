@@ -68,7 +68,7 @@ export class AppComponent implements OnInit {
         } else {
           this.validUser = true;
         }
-        // console.log(tr);
+       
         
       },
       (err) => {
